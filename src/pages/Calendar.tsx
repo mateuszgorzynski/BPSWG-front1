@@ -1,6 +1,6 @@
 import React from 'react';
 import './Style.css';
-import Navigation from '../components/Navigation';
+import NavigationUser from '../components/NavigationUser';
 import MainBox from '../components/MainBox';
 import CalendarBox from '../components/CalendarBox';
 
@@ -10,8 +10,7 @@ const App: React.FC = () => {
     <div className="App">
       <span className="heading">PLACEHOLDER</span>      
 
-      <Navigation></Navigation>
-      <MainBox></MainBox>
+      <NavigationUser></NavigationUser>
       <CalendarBox></CalendarBox>
     </div>
 

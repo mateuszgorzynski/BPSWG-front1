@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import InputFeild from './components/InputFeild';
+import LoginBox from './components/LoginBox';
 
 
 const App: React.FC = () => {
@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="App">
       <span className="heaing">APP NAME</span>      
 
-      <InputFeild></InputFeild>
+      <LoginBox></LoginBox>
     </div>
 
 

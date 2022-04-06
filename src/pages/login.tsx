@@ -1,6 +1,6 @@
 import React from 'react';
 import './Style.css';
-import InputFeild from '../components/InputFeild';
+import LoginBox from '../components/LoginBox';
 
 
 const App: React.FC = () => {
@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="App">
       <span className="heading">PLACEHOLDER</span>      
 
-      <InputFeild></InputFeild>
+      <LoginBox></LoginBox>
     </div>
 
 

@@ -13,6 +13,9 @@
 
 }
 
+.login a{
+font-size: 15px;
+}
 
 .login input{
 margin: auto;
@@ -50,9 +53,10 @@ font-size: 20px;
     font-size: 20px;
     color: black;
 }
+/*
 .login a:hover{
     color: rgb(100, 128, 255);
-}
+} */
 
 .navigation{
     margin: 10px;
