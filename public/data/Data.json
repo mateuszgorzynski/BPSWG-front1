@@ -1,0 +1,6 @@
+{
+  "data": [
+      {"Nazwa": "z1","Status": "aktywny","Typ": "zadanie","Godziny": "5","Piorytet": "wysoki","Pracownik": "adam"},
+      {"Nazwa": "z1","Status": "aktywny","Typ": "zadanie","Godziny": "P2","Piorytet": "wysoki","Pracownik": "adam"}
+     ]
+}
